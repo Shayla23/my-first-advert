@@ -6,7 +6,19 @@ h1 {
   font-size: 100px;
 }
 a{
-  color: pink
+  color: red 
+}
+p{
+  color: rgb(180, 37, 168) 
+}
+p{
+  font-size:50px
+}
+a{
+  font-size: 35px
+}
+h1{
+  font-size: 40px
 }
 </body>
 </html>
