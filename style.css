@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+
 h1 {
   font-size: 100px;
 }
@@ -15,10 +12,23 @@ p{
   font-size:50px
 }
 a{
-  font-size: 35px
+  font-size: 70px
 }
 h1{
-  font-size: 40px
+  font-size: 90px
 }
-</body>
-</html>
+body {
+  background-image: url("videoblocks-animated-abstract-background-with-colorful-music-notes-seamless-loop_b3sprtpie_thumbnail-full01.png");
+}
+
+th {
+  text-align: left;
+}
+table{
+  font-size: 90px
+}
+table{
+   {
+    text-align: center;
+    border: 3px solid white;
+}
