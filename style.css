@@ -22,13 +22,8 @@ body {
 }
 
 th {
-  text-align: left;
+  text-align: center;
 }
 table{
   font-size: 90px
-}
-table{
-   {
-    text-align: center;
-    border: 3px solid white;
 }
