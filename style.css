@@ -3,10 +3,14 @@ h1 {
   font-size: 100px;
 }
 a{
+<<<<<<< HEAD
+  color: rgb(0, 255, 213) 
+=======
   color: lavender 
+>>>>>>> 90b76b8e179fafaf8d880ec0b16af860a69d1da2
 }
 p{
-  color: rgb(180, 37, 168) 
+  color: rgb(47, 37, 180) 
 }
 p{
   font-size:50px
@@ -17,6 +21,8 @@ a{
 h1{
   font-size: 90px
 }
+<<<<<<< HEAD
+=======
 body {
   background-image: url("videoblocks-animated-abstract-background-with-colorful-music-notes-seamless-loop_b3sprtpie_thumbnail-full01.png");
 }
@@ -32,3 +38,4 @@ table{
     text-align: center;
     border: 3px solid white;
 }
+>>>>>>> 90b76b8e179fafaf8d880ec0b16af860a69d1da2
