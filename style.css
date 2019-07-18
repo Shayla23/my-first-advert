@@ -1,15 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
+
 h1 {
   font-size: 100px;
 }
 a{
-  color: red 
+  color: rgb(0, 255, 213) 
 }
 p{
-  color: rgb(180, 37, 168) 
+  color: rgb(47, 37, 180) 
 }
 p{
   font-size:50px
@@ -20,5 +17,3 @@ a{
 h1{
   font-size: 40px
 }
-</body>
-</html>
