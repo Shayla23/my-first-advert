@@ -3,10 +3,10 @@ h1 {
   font-size: 100px;
 }
 a{
-  color: rgb(47, 37, 180)
+  color: lightcoral
 }
 p{
-  color: rgb(47, 37, 180) 
+  color: black
 }
 p{
   font-size:50px
@@ -26,17 +26,11 @@ th {
 }
 table{
   font-size: 90px
-<<<<<<< HEAD
-}
-=======
+
 }
 table{
    {
     text-align: center;
     border: 3px solid white;
 }
-<<<<<<< HEAD
-=======
->>>>>>> 90b76b8e179fafaf8d880ec0b16af860a69d1da2
->>>>>>> 47c35a1c024dcea513b3dc52aa3880610c5ffebe
->>>>>>> abec70b12c9bd70651b5e41c2741c59120627a06
+
